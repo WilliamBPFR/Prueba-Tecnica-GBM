@@ -1,0 +1,2 @@
+Para correr el programa, se necesita abrir el archivo "solucion.py" y escribir 
+la palabra que quiere determinar que es un palindromo en la linea 4 ("print(determinar_palindromo({palabra}))")

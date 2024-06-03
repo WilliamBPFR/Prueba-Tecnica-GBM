@@ -1,0 +1,5 @@
+El camino mas corto para 2 es:  3
+El camino mas corto para 7 es:  5
+El camino mas corto para 4 es:  3
+El camino mas corto para 9 es:  5
+El camino mas corto para 5 es:  4

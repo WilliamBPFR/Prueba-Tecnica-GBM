@@ -1,0 +1,1 @@
+EL numero de casos (primera linea del input), debe ser menor o igual a 1000 y mayor o igual a 1

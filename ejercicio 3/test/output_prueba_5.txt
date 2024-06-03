@@ -1,0 +1,7 @@
+El camino mas corto para 1 es:  1
+El camino mas corto para 2 es:  3
+Error con numero 3000. El numero debe ser mayor o igual que 1 y menor o igual que 106
+El camino mas corto para 4 es:  3
+El camino mas corto para 5 es:  4
+El camino mas corto para 6 es:  3
+El camino mas corto para 7 es:  5

@@ -1,0 +1,6 @@
+Para ejecutar este programa debe de modificar el archivo input y darle el siguiente formato:
+
+- La primera línea contiene dos enteros separados por un espacio: G y P, que indican el número de Grandes Premios y el número de pilotos respectivamente.
+- Las siguientes G líneas representan los resultados de cada carrera. Cada línea contiene Q enteros separados por espacios, donde el i-ésimo número indica el orden de llegada del piloto i en esa carrera.
+- La siguiente línea contiene un solo entero S, indicando el número de sistemas de puntuación.
+- A continuación, cada una de las siguientes S líneas contiene una descripción de un sistema de puntuación. Cada descripción comienza con un entero K, seguido de K enteros separados por espacios, que indican los puntos asignados para cada posición.

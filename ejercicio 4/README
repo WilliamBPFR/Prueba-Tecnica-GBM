@@ -1,0 +1,5 @@
+Para ejecutar este proyecto depende de lo que quiera:
+- Si quiere entrenar el modelo, ejecuta el comando 'cd 'ejercicio 4'' y luego el comando 'pip install -r requirements.txt' 
+  para instalar las dependencias necesarias. Luego ejecute el comando 'python solucion.py
+
+- Si quiere probar el modelo, vaya a la carpeta test y ejecute el comando 'python prueba1.py'

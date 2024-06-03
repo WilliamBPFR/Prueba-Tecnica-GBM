@@ -1,0 +1,9 @@
+Para ejecutar este ejercicio, primero se debe crear un archivo txt o modificar el archivo input.txt en donde se ponga la data con el siguiente formato:
+- La primera linea debe contener un numero entre 1 y 1000, que indicara el numeor de casos que probará el programa.
+- Despues las otras lineas seran los numeros que quiere encontrar la cantidad minima de pasos, deben ser entre 1 y 106. Debe
+  añadir uno por linea.
+
+Si se modifica el archivo input.yxy puede correr el archivo solucion directamente.
+
+Si se crea un nuevo archivo en la llamada de la funcion_entrada() depsues del __main__ se debe añadir como parametro
+el nombre del archivo que se quiere leer. Este archivo dbee estar en la misma carpeta que el archivo solucion.py

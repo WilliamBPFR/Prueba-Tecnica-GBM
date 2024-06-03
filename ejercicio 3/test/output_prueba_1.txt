@@ -1,0 +1,3 @@
+El camino mas corto para 10 es:  4
+El camino mas corto para 20 es:  7
+El camino mas corto para 30 es:  9
